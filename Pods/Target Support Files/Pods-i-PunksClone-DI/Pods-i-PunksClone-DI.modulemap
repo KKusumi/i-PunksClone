@@ -1,0 +1,6 @@
+framework module Pods_i_PunksClone_DI {
+  umbrella header "Pods-i-PunksClone-DI-umbrella.h"
+
+  export *
+  module * { export * }
+}

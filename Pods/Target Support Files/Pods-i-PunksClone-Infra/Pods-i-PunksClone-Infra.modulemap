@@ -1,0 +1,6 @@
+framework module Pods_i_PunksClone_Infra {
+  umbrella header "Pods-i-PunksClone-Infra-umbrella.h"
+
+  export *
+  module * { export * }
+}
